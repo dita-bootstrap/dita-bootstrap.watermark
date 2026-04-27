@@ -55,8 +55,8 @@ rm dita-ot-4.1.zip
 
 ```console
 dita install fox.jason.extend.css
-dita install net.infotexture.dita-bootstrap
-dita install https://github.com/jason-fox/dita-bootstrap.watermark/archive/master.zip
+dita install org.dita-bootstrap.html
+dita install org.dita-bootstrap.watermark
 ```
 
 The `dita` command line tool requires no additional configuration.
@@ -86,4 +86,4 @@ By default the output HTML will be watermarked as a **DRAFT**
 
 ## License
 
-[Apache 2.0](LICENSE) © 2023 Jason Fox
+[Apache 2.0](LICENSE) © 2023-2026 Jason Fox
